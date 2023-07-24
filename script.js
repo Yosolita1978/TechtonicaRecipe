@@ -28,3 +28,7 @@ for (let i = 0; i < ingredientList.length; i++) {
     check(li, ingredientList[i]);
     document.getElementById("Ingredients").appendChild(li);
 }
+
+//TODO add buttons and movement
+console.log('\nHave just entered the house, find the treasue! Use N E S W to move around!\n');
+
